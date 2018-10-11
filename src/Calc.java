@@ -44,7 +44,7 @@ public class Calc {
 			}
 			// System.out.println(i + " " + resultado[i] + " " + decimales);
 		}
-		i2 = i;
+		i2 = i; 
 		i = 0;
 		while (i != i2) {
 			i++;
